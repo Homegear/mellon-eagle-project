@@ -1,0 +1,18 @@
+Changelog Cryptostick:
+
+0v1 (nie gefertigt):
+- MSP430FR????
+
+
+0v2:
+- MSP430FR5994
+
+
+0v3:
+- MSP432E4
+
+
+tbd:
+- NC-Pin des Prog-Headers sinnvoll verdrahten
+- VCORE mit 3.3µF statt 100nF
+
